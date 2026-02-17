@@ -16,13 +16,14 @@
         const ctx = canvas.getContext("2d");
         const scoreElement = document.getElementById("score");
         let box = 20; let score = 0;
-        let snake = [
-    {x: 9 * box, y: 10 * box},
-    {x: 8 * box, y: 10 * box},
-    {x: 7 * box, y: 10 * box}
+        // 原本的座標可能太擠了，改成這樣排隊：
+let snake = [
+    {x: 9 * box, y: 10 * box}, // 頭
+    {x: 8 * box, y: 10 * box}, // 身體 1
+    {x: 7 * box, y: 10 * box}  // 身體 2
 ];
         let food = { x: Math.floor(Math.random() * 19 + 1) * box, y: Math.floor(Math.random() * 19 + 1) * box };
-        let d;
+        let d = "RIGHT"; // 讓蛇一出生就往右邊跑，不要呆在原地撞自己
         document.addEventListener("keydown", direction);
         function direction(event) {
             if(event.keyCode == 37 && d != "RIGHT") d = "LEFT";
