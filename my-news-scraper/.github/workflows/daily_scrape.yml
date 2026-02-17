@@ -1,0 +1,33 @@
+name: Daily News Scraper
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天世界標準時間 00:00 (台灣時間早上 8 點) 執行
+  workflow_dispatch:      # 允許你手動點擊按鈕來測試執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 複製儲存庫代碼
+        uses: actions/checkout@v3
+
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 安裝必要套件
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: 執行爬蟲程式
+        run: python yahooscraper.py
+
+      - name: 將更新後的 CSV 存回 GitHub
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add yahoo_news.csv
+          git commit -m "自動更新新聞: $(date)" || echo "沒有新資料可更新"
+          git push
