@@ -16,7 +16,11 @@
         const ctx = canvas.getContext("2d");
         const scoreElement = document.getElementById("score");
         let box = 20; let score = 0;
-        let snake = [{x: 9 * box, y: 10 * box}];
+        let snake = [
+    {x: 9 * box, y: 10 * box},
+    {x: 8 * box, y: 10 * box},
+    {x: 7 * box, y: 10 * box}
+];
         let food = { x: Math.floor(Math.random() * 19 + 1) * box, y: Math.floor(Math.random() * 19 + 1) * box };
         let d;
         document.addEventListener("keydown", direction);
