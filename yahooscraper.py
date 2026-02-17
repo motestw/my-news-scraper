@@ -22,7 +22,30 @@ if response.status_code == 200:
         if title_text and link:
             if not link.startswith('http'):
                 link = "https://tw.news.yahoo.com" + link
-            news_list.append([title_text, link]) # 將標題和連結存入
+            # --- 從第 25 行開始取代 ---
+# 定義你想追蹤的關鍵字
+keywords = ["川普", "股市"]
+
+# 關鍵字過濾：標題中只要出現任一關鍵字就保留
+filtered_news = [
+    (title, link) for title, link in news_list 
+    if any(word in title for word in keywords)
+]
+
+# 判斷是否有抓到符合的新聞
+if filtered_news:
+    # 存成 CSV
+    df = pd.DataFrame(filtered_news, columns=['標題', '連結'])
+    df.to_csv('yahoo_news.csv', index=False, encoding='utf-8-sig')
+    
+    # 新增：同時產生可點擊的 Markdown 日報
+    with open("news_list.md", "w", encoding="utf-8") as md_file:
+        md_file.write(f"# 今日關鍵字動態：{', '.join(keywords)}\n\n")
+        for i, (title, link) in enumerate(filtered_news, 1):
+            md_file.write(f"{i}. [{title}]({link})\n")
+    print(f"成功！抓到 {len(filtered_news)} 則相關新聞。")
+else:
+    print("今天沒有包含這些關鍵字的新聞。")
 
     # --- 存檔邏輯開始 ---
     filename = "yahoo_news.csv"
