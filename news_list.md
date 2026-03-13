@@ -1,5 +1,3 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [川普警告伊朗迎「死亡與怒火」 伊朗回嗆：小心最後消失的是你](https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E8%BF%8E-%E6%AD%BB%E4%BA%A1%E8%88%87%E6%80%92%E7%81%AB-%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%97%86-%E5%B0%8F%E5%BF%83%E6%9C%80%E5%BE%8C%E6%B6%88%E5%A4%B1%E7%9A%84%E6%98%AF%E4%BD%A0-045041824.html)
-2. [專訪》台灣如果只剩製造，「矽盾」籌碼恐被稀釋！劉峻誠揭示AI晶片新戰場](https://tw.news.yahoo.com/%E5%B0%88%E8%A8%AA-%E5%8F%B0%E7%81%A3%E5%A6%82%E6%9E%9C%E5%8F%AA%E5%89%A9%E8%A3%BD%E9%80%A0-%E7%9F%BD%E7%9B%BE-%E7%B1%8C%E7%A2%BC%E6%81%90%E8%A2%AB%E7%A8%80%E9%87%8B-%E5%8A%89%E5%B3%BB%E8%AA%A0%E6%8F%AD%E7%A4%BAai%E6%99%B6%E7%89%87%E6%96%B0%E6%88%B0%E5%A0%B4-044823048.html)
-3. [AI智慧大工廠論壇登場 台灣帆軟、思科、研華與祐謙解析製造業超自動化轉型](https://tw.news.yahoo.com/ai%E6%99%BA%E6%85%A7%E5%A4%A7%E5%B7%A5%E5%BB%A0%E8%AB%96%E5%A3%87%E7%99%BB%E5%A0%B4-%E5%8F%B0%E7%81%A3%E5%B8%86%E8%BB%9F-%E6%80%9D%E7%A7%91-%E7%A0%94%E8%8F%AF%E8%88%87%E7%A5%90%E8%AC%99%E8%A7%A3%E6%9E%90%E8%A3%BD%E9%80%A0%E6%A5%AD%E8%B6%85%E8%87%AA%E5%8B%95%E5%8C%96%E8%BD%89%E5%9E%8B-044720341.html)
+1. [台灣大哥大資訊長蔡祈岩，即將參與第九屆《Hit AI & Blockchain》人工智慧暨區塊鏈產業高峰會！](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%A4%A7%E5%93%A5%E5%A4%A7%E8%B3%87%E8%A8%8A%E9%95%B7%E8%94%A1%E7%A5%88%E5%B2%A9-%E5%8D%B3%E5%B0%87%E5%8F%83%E8%88%87%E7%AC%AC%E4%B9%9D%E5%B1%86-hit-ai-blockchain-050000278.html)
