@@ -1,3 +1,3 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [國民黨對台灣人比日本差？律師列5點關鍵：賴清德講的是事實](https://tw.news.yahoo.com/%E5%9C%8B%E6%B0%91%E9%BB%A8%E5%B0%8D%E5%8F%B0%E7%81%A3%E4%BA%BA%E6%AF%94%E6%97%A5%E6%9C%AC%E5%B7%AE-%E5%BE%8B%E5%B8%AB%E5%88%975%E9%BB%9E%E9%97%9C%E9%8D%B5-%E8%B3%B4%E6%B8%85%E5%BE%B7%E8%AC%9B%E7%9A%84%E6%98%AF%E4%BA%8B%E5%AF%A6-052700920.html)
+1. [川普政府傳收取 100 億美元 TikTok 交易費，金額接近估值七成惹爭議](https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E5%82%B3%E6%94%B6%E5%8F%96-100-%E5%84%84%E7%BE%8E%E5%85%83-tiktok-%E4%BA%A4%E6%98%93%E8%B2%BB%EF%BC%8C%E9%87%91%E9%A1%8D%E6%8E%A5%E8%BF%91%E4%BC%B0%E5%80%BC%E4%B8%83%E6%88%90%E6%83%B9%E7%88%AD%E8%AD%B0-055102199.html)
