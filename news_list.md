@@ -1,3 +1,3 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [川普政府傳收取 100 億美元 TikTok 交易費，金額接近估值七成惹爭議](https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E5%82%B3%E6%94%B6%E5%8F%96-100-%E5%84%84%E7%BE%8E%E5%85%83-tiktok-%E4%BA%A4%E6%98%93%E8%B2%BB%EF%BC%8C%E9%87%91%E9%A1%8D%E6%8E%A5%E8%BF%91%E4%BC%B0%E5%80%BC%E4%B8%83%E6%88%90%E6%83%B9%E7%88%AD%E8%AD%B0-055102199.html)
+1. [下個目標？川普：相信我有榮幸「接管古巴」 傳美施壓要古巴總統下台](https://tw.news.yahoo.com/%E4%B8%8B%E5%80%8B%E7%9B%AE%E6%A8%99-%E5%B7%9D%E6%99%AE-%E7%9B%B8%E4%BF%A1%E6%88%91%E6%9C%89%E6%A6%AE%E5%B9%B8-%E6%8E%A5%E7%AE%A1%E5%8F%A4%E5%B7%B4-%E5%82%B3%E7%BE%8E%E6%96%BD%E5%A3%93%E8%A6%81%E5%8F%A4%E5%B7%B4%E7%B8%BD%E7%B5%B1%E4%B8%8B%E5%8F%B0-050612708.html)
