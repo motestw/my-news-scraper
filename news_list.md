@@ -1,3 +1,3 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [美國4場演講圓滿   張雅琴心繫台灣：周四1800見](https://tw.news.yahoo.com/%E7%BE%8E%E5%9C%8B4%E5%A0%B4%E6%BC%94%E8%AC%9B%E5%9C%93%E6%BB%BF-%E5%BC%B5%E9%9B%85%E7%90%B4%E5%BF%83%E7%B9%AB%E5%8F%B0%E7%81%A3-%E5%91%A8%E5%9B%9B1800%E8%A6%8B-022123396.html)
+1. [颱風海神生成　對台灣無直接影響](https://tw.news.yahoo.com/%E9%A2%B1%E9%A2%A8%E6%B5%B7%E7%A5%9E%E7%94%9F%E6%88%90-%E5%B0%8D%E5%8F%B0%E7%81%A3%E7%84%A1%E7%9B%B4%E6%8E%A5%E5%BD%B1%E9%9F%BF-022627880.html)
