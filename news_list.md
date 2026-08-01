@@ -1,3 +1,3 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [通常是敵人在做！沈伯洋：偽造三軍統帥聲音對台灣「風險極高」](https://tw.news.yahoo.com/%E9%80%9A%E5%B8%B8%E6%98%AF%E6%95%B5%E4%BA%BA%E5%9C%A8%E5%81%9A-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E5%81%BD%E9%80%A0%E4%B8%89%E8%BB%8D%E7%B5%B1%E5%B8%A5%E8%81%B2%E9%9F%B3%E5%B0%8D%E5%8F%B0%E7%81%A3-%E9%A2%A8%E9%9A%AA%E6%A5%B5%E9%AB%98-021820843.html)
+1. [川普警告歐洲移民浩劫：若民主黨執政「3年後輪到美國」](https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E8%AD%A6%E5%91%8A%E6%AD%90%E6%B4%B2%E7%A7%BB%E6%B0%91%E6%B5%A9%E5%8A%AB-%E8%8B%A5%E6%B0%91%E4%B8%BB%E9%BB%A8%E5%9F%B7%E6%94%BF-3%E5%B9%B4%E5%BE%8C%E8%BC%AA%E5%88%B0%E7%BE%8E%E5%9C%8B-022800572.html)
