@@ -1,3 +1,3 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [白海豚豪雨襲北台灣 桃園緊急宣布「復興區停班停課」](https://tw.news.yahoo.com/%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%B1%AA%E9%9B%A8%E8%A5%B2%E5%8C%97%E5%8F%B0%E7%81%A3-%E6%A1%83%E5%9C%92%E7%B7%8A%E6%80%A5%E5%AE%A3%E5%B8%83-%E5%BE%A9%E8%88%88%E5%8D%80%E5%81%9C%E7%8F%AD%E5%81%9C%E8%AA%B2-012426397.html)
+1. [民進黨政府糟蹋台灣民主，竟被非民主的中共取笑！](https://tw.news.yahoo.com/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E7%B3%9F%E8%B9%8B%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%EF%BC%8C%E7%AB%9F%E8%A2%AB%E9%9D%9E%E6%B0%91%E4%B8%BB%E7%9A%84%E4%B8%AD%E5%85%B1%E5%8F%96%E7%AC%91%EF%BC%81-013552668.html)
