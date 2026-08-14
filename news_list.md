@@ -1,3 +1,4 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [民進黨政府糟蹋台灣民主，竟被非民主的中共取笑！](https://tw.news.yahoo.com/%E6%B0%91%E9%80%B2%E9%BB%A8%E6%94%BF%E5%BA%9C%E7%B3%9F%E8%B9%8B%E5%8F%B0%E7%81%A3%E6%B0%91%E4%B8%BB%EF%BC%8C%E7%AB%9F%E8%A2%AB%E9%9D%9E%E6%B0%91%E4%B8%BB%E7%9A%84%E4%B8%AD%E5%85%B1%E5%8F%96%E7%AC%91%EF%BC%81-013552668.html)
+1. [憂台積電矽盾遭各國稀釋　江啟臣：台灣要打造「護國群山」](https://tw.news.yahoo.com/%E6%86%82%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%9F%BD%E7%9B%BE%E9%81%AD%E5%90%84%E5%9C%8B%E7%A8%80%E9%87%8B-%E6%B1%9F%E5%95%9F%E8%87%A3-%E5%8F%B0%E7%81%A3%E8%A6%81%E6%89%93%E9%80%A0-%E8%AD%B7%E5%9C%8B%E7%BE%A4%E5%B1%B1-013752935.html)
+2. [Google Pixel 11 系列、Pixel Watch 5 台灣搶先測！台北、台中即日起開放免費體驗](https://tw.news.yahoo.com/google-pixel-11-series%E3%80%81pixel-watch-5-hands-on-013718034.html)
