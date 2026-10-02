@@ -1,3 +1,4 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [國慶光雕7日登場　文總推11款民主台灣紀念徽章](https://tw.news.yahoo.com/%E5%9C%8B%E6%85%B6%E5%85%89%E9%9B%957%E6%97%A5%E7%99%BB%E5%A0%B4-%E6%96%87%E7%B8%BD%E6%8E%A811%E6%AC%BE%E6%B0%91%E4%B8%BB%E5%8F%B0%E7%81%A3%E7%B4%80%E5%BF%B5%E5%BE%BD%E7%AB%A0-040438125.html)
+1. [LIVE／首批F-16V飛抵台灣！台東志航基地現場直擊](https://tw.news.yahoo.com/live-%E9%A6%96%E6%89%B9f-16v%E6%8A%B5%E5%8F%B0-%E5%8F%B0%E6%9D%B1%E5%BF%97%E8%88%AA%E5%9F%BA%E5%9C%B0%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%93%8A-004255488.html)
+2. [齊弘跨半世紀企業實務經驗　盼串起紐約到台灣台美產業交流](https://tw.news.yahoo.com/%E9%BD%8A%E5%BC%98%E8%B7%A8%E5%8D%8A%E4%B8%96%E7%B4%80%E4%BC%81%E6%A5%AD%E5%AF%A6%E5%8B%99%E7%B6%93%E9%A9%97-%E7%9B%BC%E4%B8%B2%E8%B5%B7%E7%B4%90%E7%B4%84%E5%88%B0%E5%8F%B0%E7%81%A3%E5%8F%B0%E7%BE%8E%E7%94%A2%E6%A5%AD%E4%BA%A4%E6%B5%81-040006306.html)
