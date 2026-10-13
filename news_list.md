@@ -1,5 +1,3 @@
 # 今日關鍵字動態：川普, 股市, 台灣, 天氣
 
-1. [川普才剛宣布俄烏「能源停火」　俄羅斯旋即轟炸烏克蘭電廠](https://tw.news.yahoo.com/%E5%B7%9D%E6%99%AE%E6%89%8D%E5%89%9B%E5%AE%A3%E5%B8%83%E4%BF%84%E7%83%8F-%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB-%E4%BF%84%E7%BE%85%E6%96%AF%E6%97%8B%E5%8D%B3%E8%BD%9F%E7%82%B8%E7%83%8F%E5%85%8B%E8%98%AD%E9%9B%BB%E5%BB%A0-042525985.html)
-2. [台灣國湯是哪一碗？貢丸湯、竹筍湯、四神湯參戰　原PO最後選「這款」掀共鳴](https://tw.news.yahoo.com/%E5%8F%B0%E7%81%A3%E5%9C%8B%E6%B9%AF%E6%98%AF%E5%93%AA-%E7%A2%97-%E8%B2%A2%E4%B8%B8%E6%B9%AF-%E7%AB%B9%E7%AD%8D%E6%B9%AF-%E5%9B%9B%E7%A5%9E%E6%B9%AF%E5%8F%83%E6%88%B0-042000658.html)
-3. [美軍現役「機器狗」進駐台灣！義美跨界合資、中科院助陣：「人狗協作」作戰時代來臨？](https://tw.news.yahoo.com/%E7%BE%8E%E8%BB%8D%E7%8F%BE%E5%BD%B9-%E6%A9%9F%E5%99%A8%E7%8B%97-%E9%80%B2%E9%A7%90%E5%8F%B0%E7%81%A3-%E7%BE%A9%E7%BE%8E%E8%B7%A8%E7%95%8C%E5%90%88%E8%B3%87-%E4%B8%AD%E7%A7%91%E9%99%A2%E5%8A%A9%E9%99%A3-041622100.html)
+1. [飛歐洲「行李規定」要變了！台灣旅客有影響？3大國籍航空揭答案](https://tw.news.yahoo.com/%E9%A3%9B%E6%AD%90%E6%B4%B2-%E8%A1%8C%E6%9D%8E%E8%A6%8F%E5%AE%9A-%E8%A6%81%E8%AE%8A%E4%BA%86-%E5%8F%B0%E7%81%A3%E6%97%85%E5%AE%A2%E6%9C%89%E5%BD%B1%E9%9F%BF-3%E5%A4%A7%E5%9C%8B%E7%B1%8D%E8%88%AA%E7%A9%BA%E6%8F%AD%E7%AD%94%E6%A1%88-052300096.html)
